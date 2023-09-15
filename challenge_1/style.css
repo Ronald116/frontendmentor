@@ -23,12 +23,12 @@ img {
     margin-top: 10px;
 }
 
-h2, p {
+h1, p {
     background-color: white;
     text-align: center;
 }
 
-h2 {
+h1 {
     width: 85%;
     margin-top: 15px;
     font-size: 15px;
